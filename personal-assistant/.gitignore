@@ -1,0 +1,23 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+dist/
+*.egg-info/
+.mypy_cache/
+
+# Node
+node_modules/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# Docker
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
